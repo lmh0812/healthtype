@@ -16,3 +16,9 @@
 어떤 유형의 헬스인인지 간단한 테스트로 준비해봤습니다. 운동만이 아니라 개인 성향을 객관적으로  알아볼 수 있는 기회! 지금 가볍게 즐겨보세요~😀😀😀
 
 [🏋링크 바로가기🏋](https://healthtype.netlify.app/)
+
+## 참고
+
+## Demo
+#### 운동유형 테스트
+<img src="./Demo/healthtype demo.gif" alt="no" width="800">
